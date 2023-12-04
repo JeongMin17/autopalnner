@@ -155,6 +155,7 @@ public class PlanDataController {
             }
         }
 
+
         // Convert the char array to a String
         return new String(timeCode);
     }
